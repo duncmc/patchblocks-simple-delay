@@ -7,15 +7,9 @@ Controls
 --------
 Left Knob: Delay time  
 Right Knob: Feedback level  
-Left Button: Effetct on/off  
+Left Button: Effect on/off  
 
 Left LED indicates effect on/off.
-
-
-Issues
-------
-1. Audio quality is pants.
-2. Maximum delay length is defined as 8000ms but is probably a tenth of that.
 
 Licence
 -------
